@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>griezma.mssc</groupId>
-    <artifactId>mssc-beerworks-config</artifactId>
+    <artifactId>mssc-beerworks-config-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mssc-beerworks-config</name>
+    <name>mssc-beerworks-config-service</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
