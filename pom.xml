@@ -40,6 +40,11 @@
             <version>6.6</version>
         </dependency>
         <dependency>
+            <!-- For processing bootstrap.properties w/o spring.bootstrap.enabled argument -->
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-bootstrap</artifactId>
+        </dependency>
+        <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
